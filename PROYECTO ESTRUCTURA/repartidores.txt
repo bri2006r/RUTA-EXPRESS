@@ -1,0 +1,3 @@
+2006,BRI,MOTO,BASE CENTRAL,8.3,-62.73
+2006,victor,moto,base central,8.3,-62.73
+31868721,brianna,toyota,alta vista,8.3,-62.73
